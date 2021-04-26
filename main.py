@@ -5,6 +5,7 @@
 def test_function(request):
     # Use a breakpoint in the code line below to debug your script.
     # print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    # initial code starting from feature and added to release and finally added to main
     return 'Test Function Call'
 
 
